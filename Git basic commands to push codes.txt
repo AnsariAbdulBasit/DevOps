@@ -1,0 +1,7 @@
+ git init .
+ git remote add origin https://ghp_token@github.com/AnsariAbdulBasit/cis-benchmark-ansible.git
+ git status
+ git add .
+ git status
+ git commit -m "CIS-Bechmark role created"
+ git push origin master
